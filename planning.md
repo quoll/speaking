@@ -1,4 +1,4 @@
-#Speaking
+# Speaking
 1. Deciding on a topic
   1. Speak on what you know
   2. What you have accomplished/learned at work
@@ -47,5 +47,6 @@
   7. Check the slide notes if you get lost
   8. Have water available, but ideally away from your desk to avoid accidents on the keyboard
   9. Do not try to read questions as they appear in chat. Have someone else who can do this for you
-  
-  ###### Created by Paula Gearon, with help by many others
+
+
+  ###### Created by Paula Gearon, with help from many others
