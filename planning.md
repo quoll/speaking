@@ -10,7 +10,8 @@
 3. Applying to speak
     1. Writing the abstract
     2. Short and to the point
-    3. Tell the reader what they will come away knowing 	d. Develop a title that gets attention. Humor, puns, or controversy can all help here.
+    3. Tell the reader what they will come away knowing
+    4. Develop a title that gets attention. Humor, puns, or controversy can all help here.
 4. Developing the talk
     1. Several approaches.
     2. One approach is the 3-Part Story:
