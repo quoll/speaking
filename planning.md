@@ -38,6 +38,7 @@
     6. Slow down. Drink water
     7. Do not let people interrupt. This hurts the whole audience
     8. Questions at the end are good. "Comments" are not. Feel free to shut comments down
+    9. Repeat questions before you answer them.
 7. Delivering the talk - _Remote_
     1. Just like the in person talk, prepare your clothes and makeup ahead of time
     2. Check you background for mess, etc
